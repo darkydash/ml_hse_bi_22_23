@@ -35,7 +35,7 @@
 
 * `HW` - Средняя оценика за задания 1 - 5. 
 
-You can get extra points by solving HW 6, but no more than 10 in total. Namely, `HW = (hw1 + hw2 + hw3 + hw4 + hw5 + hw6)/5`
+Вы можете получить дополнительные баллы за счёт решения hw6. То есть `HW = (hw1 + hw2 + hw3 + hw4 + hw5 + hw6)/5`
 
 
 * `Exam` -  Оценка за экзамен
